@@ -20,7 +20,7 @@ And in the **index.js** I set all the functionalties that is needed. I grab the 
 
       git clone https://github.com/euguilhermegirardi/click-outside-exercise.git
       
-1. Open the file
+2. Open the file
 
 - Open the html file.
 
