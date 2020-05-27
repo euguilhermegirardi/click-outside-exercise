@@ -2,7 +2,7 @@
 
 ## About the exercise
 
-- The **click-outside-exercise** is an exercise built with **_VanilaJS_** only where you can click in a button and it will shows up a card in a model-outer with a model-innter inside of it .
+- The **click-outside-exercise** is an exercise built with **_VanillaJS_** only where you can click in a button and it will shows up a card in a model-outer with a model-innter inside of it .
 
 ## The functionality
 
