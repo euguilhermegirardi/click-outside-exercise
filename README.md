@@ -8,9 +8,9 @@
 
 It's pretty simple to understand. 
 This exercise has 3 files, the index.html, index.js and the styles.css.
-In the **index.html** I set all the basic informations.
-In the **index.css** I hide the model-outer with opacity to show up only when the button is clicked.
-And in the **index.js** I set all the functionalties that is needed. I grab the button, model-outer and model-inner. By clicking in the button you will populate the model-innter with all the necessary info to display the 'card'.
+- In the **index.html** I set all the basic informations.
+- In the **index.css** I hide the model-outer with opacity to show up only when the button is clicked.
+- In the **index.js** I set all the functionalties that is needed. I grab the button, model-outer and model-inner. By clicking in the button you will populate the model-innter with all the necessary info to display the 'card'.
 
 ## Getting started
 
